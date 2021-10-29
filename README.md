@@ -3,4 +3,4 @@
  
 [DEMO LINK](https://Denis-Demyanok.github.io/Eco_cosmetics/).
 
-Technologies: HTML + CSS + SASS + BEM methodology.
+Technologies: HTML + CSS + JS + SASS + BEM methodology.
